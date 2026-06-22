@@ -8,7 +8,7 @@
       "description": "아르덴 월드 전용 서버",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "ardenworld.kro.kr:25565",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
       "autoconnect": true,
