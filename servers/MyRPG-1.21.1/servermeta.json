@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///E:/MineCraftProject/LauncherPack/distroot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "아르덴 월드",
+    "description": "아르덴 월드 전용 서버",
+    "icon": "",
+    "address": "localhost:25565",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.6"
+  },
+  "untrackedFiles": []
+}
