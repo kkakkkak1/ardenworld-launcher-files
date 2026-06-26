@@ -1,0 +1,7 @@
+version:3955
+guiScale:2
+lang:ko_kr
+autoJump:false
+key_key.chat:key.keyboard.enter
+key_key.command:key.keyboard.slash
+skipMultiplayerWarning:true
