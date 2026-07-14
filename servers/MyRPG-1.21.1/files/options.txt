@@ -1,7 +1,14 @@
 version:3955
-guiScale:2
+guiScale:3
 lang:ko_kr
 autoJump:false
+renderClouds:"false"
+soundCategory_music:0.0
+narrator:0
+onboardAccessibility:false
+joinedFirstServer:true
+onlyShowSecureChat:false
 key_key.chat:key.keyboard.enter
 key_key.command:key.keyboard.slash
 skipMultiplayerWarning:true
+tutorialStep:none
