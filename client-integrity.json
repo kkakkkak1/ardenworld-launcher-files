@@ -2,7 +2,7 @@
     "schemaVersion":  1,
     "protocolVersion":  1,
     "serverId":  "MyRPG-1.21.1",
-    "packVersion":  "04be69d5ec2b1d3b8dad3a1b7efd07f951ab11f4726b8000f669be622fe966b5",
+    "packVersion":  "741f8d57e36e5ce615829331112e708e00a2fd128e49e7b4646645766082a11c",
     "mods":  [
                  {
                      "moduleId":  "generated.fabricmod:fabric-api:0.116.10+1.21.1@jar",
@@ -26,18 +26,18 @@
                      "sha256":  "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5"
                  },
                  {
-                     "moduleId":  "com.zigythebird.playeranim:player_animation_library:1.1.4+mc.1.21.1@jar",
+                     "moduleId":  "com.zigythebird.playeranim:player_animation_library:1.1.5+mc.1.21.1@jar",
                      "id":  "player_animation_library",
-                     "version":  "1.1.4+mc.1.21.1",
-                     "size":  1153769,
-                     "sha256":  "89732e99251fda48179dda48fe7a043852002d7abb13823ac588df399b3b9539"
+                     "version":  "1.1.5+mc.1.21.1",
+                     "size":  1155693,
+                     "sha256":  "17757721cecf8420fe6cec19ece487432ea1890f3c7c5e07b000145a17d8e882"
                  },
                  {
                      "moduleId":  "com.kalrojack.rpgproject:rpg-project:1.0.0@jar",
                      "id":  "rpg-project",
                      "version":  "1.0.0",
-                     "size":  94274132,
-                     "sha256":  "b73504c04045e26c548b0b959f7ef83bafa28be8ec2bd5cdbc2cedc79f8b5bc1"
+                     "size":  102590086,
+                     "sha256":  "e45569faf96517d115bdbfacd7b2df6af73f4a86cdff7342e2d6067578300eb1"
                  },
                  {
                      "moduleId":  "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",

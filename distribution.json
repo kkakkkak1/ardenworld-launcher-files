@@ -136,13 +136,13 @@
           }
         },
         {
-          "id": "com.zigythebird.playeranim:player_animation_library:1.1.4+mc.1.21.1@jar",
+          "id": "com.zigythebird.playeranim:player_animation_library:1.1.5+mc.1.21.1@jar",
           "name": "Player Animation Library",
           "type": "FabricMod",
           "artifact": {
-            "size": 1153769,
-            "url": "https://kkakkkak1.github.io/ardenworld-launcher-files/servers/MyRPG-1.21.1/fabricmods/required/PlayerAnimationLibFabric-1.1.4+mc.1.21.1.jar",
-            "MD5": "3bbccf661269c4c9b3d97fa1e36b50e0"
+            "size": 1155693,
+            "url": "https://kkakkkak1.github.io/ardenworld-launcher-files/servers/MyRPG-1.21.1/fabricmods/required/PlayerAnimationLibFabric-1.1.5+mc.1.21.1.jar",
+            "MD5": "0a9dad273d9307ae1b194e677acc7e6c"
           }
         },
         {
@@ -150,9 +150,9 @@
           "name": "RPG Project",
           "type": "FabricMod",
           "artifact": {
-            "size": 94274132,
+            "size": 102590086,
             "url": "https://kkakkkak1.github.io/ardenworld-launcher-files/servers/MyRPG-1.21.1/fabricmods/required/rpg-project-1.0.0-client.jar",
-            "MD5": "b348184fc322df5023e63f7abde2004d"
+            "MD5": "4c3c4789340b782d1c40df6bfe499e52"
           }
         },
         {
