@@ -150,9 +150,9 @@
                                             "name":  "RPG Project",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3805427,
+                                                             "size":  3812852,
                                                              "url":  "https://kkakkkak1.github.io/ardenworld-launcher-files/servers/MyRPG-1.21.1/fabricmods/required/rpg-project-1.0.0-client.jar",
-                                                             "MD5":  "8b030e5edfac451dd55d6566fbb89da4"
+                                                             "MD5":  "c7cc7f1b4e57401e16aa36a724f21359"
                                                          }
                                         },
                                         {
@@ -171,8 +171,8 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  100719332,
-                                                             "url":  "https://github.com/kkakkkak1/ardenworld-launcher-files/releases/download/assets-1.0.0-34a60f7ff66342b8/rpg-project-assets-1.0.0.rpa",
-                                                             "MD5":  "6efffbddf717ed2685ea875a38668f41",
+                                                             "url":  "https://github.com/kkakkkak1/ardenworld-launcher-files/releases/download/assets-1.0.0-f7e984db8317a507/rpg-project-assets-1.0.0.rpa",
+                                                             "MD5":  "c18ff3c4c17c2b07ed118e26801ad56b",
                                                              "path":  "arden-assets/rpg-project-assets-1.0.0.rpa"
                                                          }
                                         },
