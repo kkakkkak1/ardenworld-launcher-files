@@ -2,7 +2,7 @@
     "schemaVersion":  1,
     "protocolVersion":  1,
     "serverId":  "MyRPG-1.21.1",
-    "packVersion":  "c8dcc1f17c55327da2ab220545b25a1858a566836b3f1829f95e35c46b71ae0a",
+    "packVersion":  "d0c518c7d2412ab62d3cfc3e7b0b3eefcd9238415b7a2dcacc7b12b38b391264",
     "mods":  [
                  {
                      "moduleId":  "generated.fabricmod:fabric-api:0.116.10+1.21.1@jar",
@@ -43,8 +43,8 @@
                      "moduleId":  "com.kalrojack.rpgproject:rpg-project:1.0.0@jar",
                      "id":  "rpg-project",
                      "version":  "1.0.0",
-                     "size":  4945513,
-                     "sha256":  "2f14457ba8666833ebac482d48dbbb848be6305ea17f3f2f9e39a129de94da77"
+                     "size":  5135906,
+                     "sha256":  "54aa8ffbe41feb62c41005bdd1803562cbb3ebfbd122287d648418eb2970a413"
                  },
                  {
                      "moduleId":  "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
