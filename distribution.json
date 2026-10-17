@@ -126,16 +126,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
-                                            "name":  "Iris",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  2690177,
-                                                             "url":  "https://kkakkkak1.github.io/ardenworld-launcher-files/servers/MyRPG-1.21.1/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
-                                                             "MD5":  "1179fe09b9ba970e84ed59259adfe65a"
-                                                         }
-                                        },
-                                        {
                                             "id":  "com.hyfata.najoan:koreanpatch:1.9.6+mc1.21@jar",
                                             "name":  "Korean Patch",
                                             "type":  "FabricMod",
