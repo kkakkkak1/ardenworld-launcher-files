@@ -150,9 +150,9 @@
                                             "name":  "RPG Project",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  5135906,
+                                                             "size":  5151782,
                                                              "url":  "https://kkakkkak1.github.io/ardenworld-launcher-files/servers/MyRPG-1.21.1/fabricmods/required/rpg-project-1.0.0-client.jar",
-                                                             "MD5":  "fa6d6dc0da4525b8306b850f7034013a"
+                                                             "MD5":  "42b8488fa117472c5438a24323b8a9e4"
                                                          }
                                         },
                                         {
@@ -170,9 +170,9 @@
                                             "name":  "rpg-project-assets-1.0.0.rpa",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  237084742,
-                                                             "url":  "https://github.com/kkakkkak1/ardenworld-launcher-files/releases/download/assets-1.0.0-2160e34948685de7/rpg-project-assets-1.0.0.rpa",
-                                                             "MD5":  "d8a559bd13cf1d0e14ac78cbb6d09ce3",
+                                                             "size":  239314331,
+                                                             "url":  "https://github.com/kkakkkak1/ardenworld-launcher-files/releases/download/assets-1.0.0-6eb04a9e473f475e/rpg-project-assets-1.0.0.rpa",
+                                                             "MD5":  "e4b5baf22872234c6f6cae7e678a1743",
                                                              "path":  "arden-assets/rpg-project-assets-1.0.0.rpa"
                                                          }
                                         },
